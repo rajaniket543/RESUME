@@ -9,7 +9,7 @@ This repository hosts my updated resume, which you can view or download in PDF f
 ## Contents
 
 - `Resume.pdf` — My current resume ready for viewing or printing.  
-- (Optional) Other formats like `.md` or `.docx` if available.
+
 
 ## How to Use
 
@@ -18,6 +18,6 @@ This repository hosts my updated resume, which you can view or download in PDF f
 
 ## Contact
 
-- Email: your.email@example.com  
-- LinkedIn: [your-linkedin-url]  
-- Portfolio: [your-portfolio-url]
+- Email: rajaniket543@gmail.com  
+- LinkedIn: [linkedin.com/in/aniket-raj] 
+
